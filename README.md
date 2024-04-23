@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KevinTD15
 - 👀 I’m interested in ... IA, ML focused on Game Development
-- 🌱 I’m currently learning ... IA, ML, Simulacion, Compilacion, etc
-- 💞️ I’m looking to collaborate on ... nothing until my graduation
-- 📫 How to reach me ... Tg: @Rimuru1511
+- 🌱 I’m currently learning ... IA, ML, Simulacion, Compilation, among others
+- 💞️ I’m looking to collaborate as a backend developer
+- 📫 How to reach me ... Tg: @Rimuru1511 Phone": +5358417044
 
 <!---
 KevinTD15/KevinTD15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
