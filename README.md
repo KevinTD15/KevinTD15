@@ -39,7 +39,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 <p align="center">
   <!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=KevinTD15&show_icons=true&theme=vision-friendly-dark"> -->
   <a href="">
-<img width="1200" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTD15&langs_count=8&layout=donut&theme=dark&border_color=red&hide=jupyter">
+<img width="1200" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTD15&layout=donut&theme=dark&border_color=red&hide=jupyter">
 </a>
 </p>
  
